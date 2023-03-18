@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-coding-assessment-crewmeister/static/css/main.18cc4d9f.css",
+    "main.js": "/frontend-coding-assessment-crewmeister/static/js/main.a1feba88.js",
+    "static/js/787.8fe9f658.chunk.js": "/frontend-coding-assessment-crewmeister/static/js/787.8fe9f658.chunk.js",
+    "index.html": "/frontend-coding-assessment-crewmeister/index.html",
+    "main.18cc4d9f.css.map": "/frontend-coding-assessment-crewmeister/static/css/main.18cc4d9f.css.map",
+    "main.a1feba88.js.map": "/frontend-coding-assessment-crewmeister/static/js/main.a1feba88.js.map",
+    "787.8fe9f658.chunk.js.map": "/frontend-coding-assessment-crewmeister/static/js/787.8fe9f658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18cc4d9f.css",
+    "static/js/main.a1feba88.js"
+  ]
+}
