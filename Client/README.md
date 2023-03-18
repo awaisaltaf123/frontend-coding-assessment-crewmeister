@@ -1,3 +1,7 @@
+# Deployment
+
+    this site is delployed at https://awaisaltaf123.github.io/frontend-coding-assessment-crewmeister/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
