@@ -1,5 +1,6 @@
 {
-  "name": "crew-meister-challenge",
+  "homepage": "https://awaisaltaf123.github.io/frontend-coding-assessment-crewmeister",
+  "name": "crew-meister-assessment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
